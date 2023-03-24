@@ -119,9 +119,9 @@ class Case:
     
 
 case=Case()
-case.uPAllert()
-case.pasAlert()
-case.req()
-case.x()
-case.transfer()
+#case.uPAllert()
+#case.pasAlert()
+#case.req()
+#case.x()
+#case.transfer()
 case.pAmount()
